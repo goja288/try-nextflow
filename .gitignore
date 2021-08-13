@@ -5,6 +5,7 @@
 
 # Nextflow 
 .nextflow/
+.nextflow/history
 work/
 .nextflow.log.*
 
